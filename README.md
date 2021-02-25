@@ -9,6 +9,7 @@ Binaries
 ========
 
 Get binaries from the build server [![](https://github.com/0xd4d/de4dot/workflows/GitHub%20CI/badge.svg)](https://github.com/0xd4d/de4dot/actions).
+ok
 
 It's FREE but there's NO SUPPORT
 ================================
